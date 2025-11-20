@@ -4,7 +4,7 @@ This folder contains a Jupyter Notebook that demonstrates supervised machine lea
 
 **What’s included**
 
-- `Supervised Learning.ipynb` — full notebook with data loading, feature engineering (MAGPIE-style features via `matminer`), model training (Random Forest, Gradient Boosting, HistGradientBoosting, SVM, SGD), hyperparameter tuning with `GridSearchCV`, and model interpretation using `shap`.
+- `supervised-learning.ipynb` — full notebook with data loading, feature engineering (MAGPIE-style features via `matminer`), model training (Random Forest, Gradient Boosting, HistGradientBoosting, SVM, SGD), hyperparameter tuning with `GridSearchCV`, and model interpretation using `shap`.
 
   <img width="785" height="940" alt="shap_summary" src="https://github.com/user-attachments/assets/0b4adcfe-6310-4fc5-87d6-72d51c13b682" />
 
